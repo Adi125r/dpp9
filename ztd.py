@@ -1,5 +1,7 @@
 import csv
 import  math
+import matplotlib.pyplot as plt
+
 
 
 dane1 = []
@@ -158,3 +160,12 @@ for i in range(60,66):
 
 
 print(jup)
+
+plik = open('szdt', 'w')
+plik.writelines(str(jup))
+plik.close()
+
+
+plt.plot(jup)
+plt.ylabel('Srednie ZDT')
+plt.show()
