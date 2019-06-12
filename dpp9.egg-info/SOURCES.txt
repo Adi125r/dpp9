@@ -1,9 +1,0 @@
-README.txt
-setup.py
-dpp9.egg-info/PKG-INFO
-dpp9.egg-info/SOURCES.txt
-dpp9.egg-info/dependency_links.txt
-dpp9.egg-info/requires.txt
-dpp9.egg-info/top_level.txt
-myBib/__init__.py
-myBib/szyfr.py

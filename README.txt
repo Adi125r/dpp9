@@ -1,1 +1,0 @@
-Prosta paczka pythonowa :)
